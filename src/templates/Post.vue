@@ -52,6 +52,7 @@ export default {
     }
   }
 }
+
 </script>
 
 <page-query>
@@ -59,7 +60,7 @@ query Post ($path: String!) {
   post: post (path: $path) {
     title
     path
-    date (format: "D. MMMM YYYY")
+    date (format: "DD/MM/YYYY")
     timeToRead
     tags {
       id
@@ -68,7 +69,7 @@ query Post ($path: String!) {
     }
     description
     content
-    coverImage (width: 860, blur: 10)
+    #coverImage (width: 860, blur: 10)
   }
 }
 </page-query>
@@ -109,10 +110,11 @@ query Post ($path: String!) {
     }
 
     img {
-      width: calc(100% + var(--space) * 2);
-      margin-left: calc(var(--space) * -1);
-      display: block;
-      max-width: none;
+          margin-left: auto;
+          margin-right: auto;
+          display: block;
+          max-height: 600px;
+          width: auto;
     }
   }
 }
@@ -128,4 +130,11 @@ query Post ($path: String!) {
 .post-author {
   margin-top: calc(var(--space) / 2);
 }
+
+table {
+    display: block;
+    overflow: auto;
+    width: 100%;
+  }
+  
 </style>

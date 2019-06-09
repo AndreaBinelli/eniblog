@@ -6,14 +6,19 @@
     <!-- List posts -->
     <div class="posts">
       <PostCard v-for="edge in $page.posts.edges" :key="edge.node.id" :post="edge.node"/>
+      
     </div>
-
+    <Pager :info="$page.posts.pageInfo"/>
   </Layout>
 </template>
 
 <page-query>
-{
-  posts: allPost {
+query Blog($page: Int){
+  posts: allPost(perPage: 10, page: $page) @paginate {
+    pageInfo {
+      totalPages
+      currentPage
+    }
     edges {
       node {
         id
@@ -24,10 +29,10 @@
           title
           path
         }
-        date (format: "D. MMMM YYYY")
+        date (format: "DD/MM/YYYY")
         timeToRead
         description
-        coverImage (width: 770, height: 380, blur: 10)
+        #coverImage (width: 770, height: 380, blur: 10)
         ...on Post {
             id
             title
@@ -42,14 +47,16 @@
 <script>
 import Author from '~/components/Author.vue'
 import PostCard from '~/components/PostCard.vue'
+import { Pager } from 'gridsome'
 
 export default {
   components: {
     Author,
-    PostCard
+    PostCard,
+    Pager
   },
   metaInfo: {
-    title: 'Hello, world!'
+    title: 'Home'
   }
 }
 </script>

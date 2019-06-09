@@ -16,8 +16,7 @@
     </main>
 
     <footer class="footer">
-      <span class="footer__copyright">License <a href="https://creativecommons.org/licenses/by/4.0"> CC BY-SA 4.0 </a></span>
-      <span class="footer__links">Powered by <a href="//gridsome.org"> Gridsome </a></span>
+      <span class="footer__copyright">Licenza <a href="https://creativecommons.org/licenses/by/4.0" target="_blank"> CC BY-SA 4.0 </a></span>
     </footer>
 
   </div>

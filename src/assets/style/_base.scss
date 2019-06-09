@@ -26,3 +26,42 @@ a:not(.button) {
 img {
 	max-width: 100%;
 }
+
+/* Tables */
+
+table th {
+    font-weight: 600;
+  }
+
+table td,
+table th {
+  border: 1px solid var(--border-th-color);
+  padding: 6px 13px;
+}
+
+table tr {
+  background-color: var(--tr-background-color);
+  border-top: 1px solid var(--tr-border-top-color);
+}
+
+table tr:nth-child(2n) {
+  background-color: var(--tr-2-background-color);
+}
+
+/* Pagination */
+
+nav {
+  text-align: center;
+}
+
+nav a {
+  padding: 8px 16px;
+  text-decoration: none;
+  border-radius: 5px;
+}
+
+nav a.active {
+  background-color: var(--tr-border-top-color);
+  border-radius: 5px;
+}
+
