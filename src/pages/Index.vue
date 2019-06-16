@@ -3,6 +3,16 @@
     <!-- Author intro -->
     <Author :show-title="true" />
     
+    <div class="post-card content-box" style="border-radius: 25px;">
+      <div class="post-card__content">
+        <h2 class="post-card__title" style="text-align: center;">🔧 Sito in costruzione 🔨</h2>
+        <p class="post-card__description"  style="margin: 0px;">
+          Sto ancora finendo di importare i vecchi articoli da <a href="http://enibeer.blogspot.com/" target="_blank">Enibeer</a> 
+          , le date sono fittizie e servono solo per l'ordinamento dei post.<br/> Inoltre ci sarà qualche cambiamento allo stile e verranno aggiunte nuove funzionalità.
+        </p>
+      </div>
+      </div>
+
     <!-- List posts -->
     <div class="posts">
       <PostCard v-for="edge in $page.posts.edges" :key="edge.node.id" :post="edge.node"/>
@@ -14,7 +24,7 @@
 
 <page-query>
 query Blog($page: Int){
-  posts: allPost(perPage: 10, page: $page) @paginate {
+  posts: allPost(perPage: 10, page: $page, filter: { published: { eq: true }}) @paginate {
     pageInfo {
       totalPages
       currentPage
@@ -32,7 +42,7 @@ query Blog($page: Int){
         date (format: "DD/MM/YYYY")
         timeToRead
         description
-        #coverImage (width: 770, height: 380, blur: 10)
+        coverImage (width: 770, blur: 10)
         ...on Post {
             id
             title

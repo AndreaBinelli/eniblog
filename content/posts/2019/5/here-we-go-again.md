@@ -20,3 +20,25 @@ Qualcuno potrebbe obbiettare che il carattere di questo sito è veramente molto 
 
 #### Piacere di scrittura
 Tastiera meccanica, Visual Studio Code con l'interfaccia scura e Markdown. Dico solo questo, spero sia un'immagine suggestiva per voi.
+
+![Stackbit](./images/jamstack.png)
+
+#### I post vecchi
+Ho cominciato anche l'importazione dei post vecchi da [Enibeer](http://enibeer.blogspot.com/) in modo da storicizzare nel formato mardown le vecchie ricette e recensioni degli impianti. Tralascerò ovviamente quello che era strettamente legato a Blogspot/Wordpress. 
+
+Il markdown mi permette di fare quello che sognavo da tempo, ovvero dare un layout tabellare alle ricette, senza dover sporcare il post con troppo HTML o usare immagini e avere così finalmente un post definitivo in markdown che in futuro potrà adattarsi ad ogni tema di blog possibile.
+
+    #### Fermentabili
+    | Tipologia     | Peso   |
+    |---------------|--------|
+    | Malto Pilsner | 2,5 kg |
+    | Malto Weizen  | 2,5 kg |
+
+    #### Luppoli
+    | Varietà     | Tempo  |
+    |-------------|--------|
+    | Target      | 60 min |
+    | Hersbrucker | 10 min |
+
+    #### Lievito
+    Fermentis Safale WB-06 

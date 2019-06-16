@@ -31,6 +31,8 @@ Ecco alcuni vantaggi che mi hanno portato a scegliere Gridsome e più in general
 - Scrivere i post in [markdown](https://it.wikipedia.org/wiki/Markdown) non ha prezzo, è semplice e tutto viene visualizzato come vorresti. Ho sempre litigato con gli editor WYSIWYG di Wordpress e Blogger che mettono cose a caso. Senza contare che producono un html difficile da leggere e modificare manualmente.
 - Anche se mi piace scrivere e pubblicare i post con VS Code ho configurato Netlify CMS perché si possa farlo direttamente con un interfaccia web. E con markdown ovviamente.
 
+![Stackbit](./images/great-unbundling.jpg)
+
 #### Riflessioni finali
 Il grande pregio di questo approccio è anche quello di ritornare ad avere il pieno controllo sul codice del proprio sito.
 
