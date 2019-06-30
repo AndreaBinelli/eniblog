@@ -4,10 +4,10 @@ date: 2019-01-17
 published: true
 tags: ['Birra', 'Ryan Biller', 'Pale Ale', 'APA']
 canonical_url: false
-description: "American Pale Ale, cotta del 16 ottobre 2018."
+description: "American Pale Ale, cotta del 16 ottobre 2016."
 ---
 
-American Pale Ale, cotta del 16 ottobre 2018.
+American Pale Ale, cotta del 16 ottobre 2016.
 
 #### Fermentabili
 | Tipologia               | Percentuale |

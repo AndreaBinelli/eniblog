@@ -97,7 +97,7 @@ In ogni caso mi affiderò [ai tutorial del suo creatore](https://www.youtube.com
 ![Gridsome Starter Bleda](./images/gridsome-portfolio-starter.png)
 
 ## Conclusioni
-Ho tralasciato molti temi di altri static gen (come [Jeckyll](https://jekyllrb.com/) che provai come primo in assoluto), ma questa è solo una panoramica veloce per darvi un'idea di quanti punti di partenza per un sito/blog possono esserci.
+Ho tralasciato molti temi di altri static gen (come [Jekyll](https://jekyllrb.com/) che provai come primo in assoluto), ma questa è solo una panoramica veloce per darvi un'idea di quanti punti di partenza per un sito/blog possono esserci.
 
 Alcuni con già la *pappa pronta* mentre altri vi daranno più spazio a personalizzazioni ed estro personale. Ma in ogni caso niente è fissato nella pietra come i classici CMS monolitici che agiscono come scatole nere al cui interno non è dato sapere le magie che avvengono.
 

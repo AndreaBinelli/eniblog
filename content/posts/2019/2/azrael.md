@@ -24,7 +24,7 @@ Amber lager brassata il 9 gennaio 2017.
 |--------------------|--------|---------|----------|
 | Hallertauer Magnum | 60 min | 31 IBU  | -        |
 | Styrian Goldings   | 15 min | 1,6 IBU | 1,5 g/l  |
-| Styrian Goldings   | 5 min  | 0,6 IBU | 1,5 g/l |
+| Styrian Goldings   | 5 min  | 0,6 IBU | 1,5 g/l  |
 
 #### Lievito
 Fermentis Saflager S-23
