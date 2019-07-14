@@ -1,5 +1,5 @@
 ---
-title: Golden Eye
+title: Golden Eye 🔫
 date: 2019-03-06
 published: true
 tags: ['Birra', 'Golden Ale', 'American Pale Ale']

@@ -1,5 +1,5 @@
 ---
-title: Blonde Ale
+title: Blonde Ale 👱🏻‍♀️
 date: 2019-02-16
 published: true
 tags: ['Birra', 'Ryan Biller', 'Blonde Ale']

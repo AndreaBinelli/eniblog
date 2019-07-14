@@ -1,5 +1,5 @@
 ---
-title: Trap
+title: Trap 📀 
 date: 2019-03-03
 published: true
 tags: ['Birra', 'Belgian Pale Ale', 'Belgian Blond Ale']

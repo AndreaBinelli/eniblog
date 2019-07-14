@@ -1,5 +1,5 @@
 ---
-title: Vienna SMaSH
+title: Vienna SMaSH 💥
 date: 2019-03-09
 published: true
 tags: ['Birra', 'Blonde Ale', 'Brett Ale']
@@ -69,3 +69,5 @@ Qualche domanda/dubbio/provocazione:
 Per quanto riguarda la versione brettata assaggiata intorno a pasqua 2019 le impressioni sono pressoché positive: gentile presenza del brett in aroma, forse solo un po' monotematica e poco complessa. 
 
 Acidità non pervenuta, la quale lascia dedurre che i lacto/pedio del mix di lieviti sono stati completamente neutralizzato dal luppolo, che non era nemmeno stato filtrato efficacemente durante la cotta. Per utilizzarli efficacemente servono molti pochi IBU e altre accortezze produttive. Oppure affidarsi in modo sicuro e affidabile al **kettle sour**.
+
+![viennaBrett](./images/viennaBrett.jpg)

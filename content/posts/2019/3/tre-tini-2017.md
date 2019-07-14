@@ -1,5 +1,5 @@
 ---
-title: Tre tini del 2017
+title: Tre tini del 2017 🔥🔥🔥
 date: 2019-03-18
 published: true
 tags: ['Birra', 'Ryan Biller', 'Impianto', 'Tre tini']

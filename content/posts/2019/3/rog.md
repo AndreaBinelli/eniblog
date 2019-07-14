@@ -1,5 +1,5 @@
 ---
-title: Rog
+title: Rog 🍷
 date: 2019-03-12
 published: true
 tags: ['Birra', 'Roggenbier']

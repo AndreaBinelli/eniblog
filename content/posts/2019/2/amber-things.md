@@ -1,5 +1,5 @@
 ---
-title: Amber Things
+title: Amber Things 🎄
 date: 2019-02-18
 published: true
 tags: ['Birra', 'Ryan Biller', 'Amber Ale', 'Brett Ale']
