@@ -3,7 +3,7 @@ title: Plug Walk Kveik Remix 🎚
 date: 2019-05-25
 published: true
 tags: ['Birra', 'Kveik', 'Pale Ale']
-canonical_url: false
+
 description: "Banco di prova per l'hornidal kveik su base della plug walk."
 ---
 

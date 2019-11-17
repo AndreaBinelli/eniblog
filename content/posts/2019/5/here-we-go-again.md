@@ -3,7 +3,7 @@ title: Here we go again 🎉
 date: 2019-05-19
 published: true
 tags: ['Blog','Web Development', 'Birra']
-canonical_url: false
+
 description: "Dopo vari tentativi di bloggare le mie attività birrarie, questo dovrebbe essere il mio blog personale definitivo. Non parlerò solo di birra ma anche di tecnologia e di sviluppo web, a cominciare dagli strumenti con cui questo sito sta in piedi."
 ---
 

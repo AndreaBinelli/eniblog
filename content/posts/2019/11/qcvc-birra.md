@@ -1,9 +1,9 @@
 ---
-title: Quel che vi consiglio, parte 1
-date: 2019-08-04
+title: Quel che vi consiglio, ambito birra
+date: 2019-11-30
 published: false
 tags: ['Birra', 'Blog']
-canonical_url: false
+
 description: "Una serie di consigli di siti, blog, canali youtube sul tema della birra artigianale e homebrewing."
 ---
 

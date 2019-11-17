@@ -3,9 +3,8 @@ title: Dieci template per il tuo blog statico
 date: 2019-06-16
 published: true
 series: false
-coverImage: ./images/10-template.png
+cover_image: ./images/10-template.png
 tags: ['Blog', 'Web Development', 'JAMstack']
-canonical_url: false
 description: "Con questo post voglio dare qualche consiglio pratico a chi decide di avventurarsi in questo fantastico mondo dei siti statici. Vi elencherò dieci starter fatti con varie tecnologie che ho valutato anch'io per creare il mio blog."
 ---
 

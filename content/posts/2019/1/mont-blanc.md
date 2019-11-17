@@ -3,7 +3,7 @@ title: Montblanc 🗻
 date: 2019-01-05
 published: true
 tags: ['Birra', 'Ryan Biller', 'Blanche', 'Wit']
-canonical_url: false
+
 description: "Birra di frumento stile blanche prodotta il 24 aprile 2016 e imbottigliata l'8 maggio dopo un travaso."
 ---
 

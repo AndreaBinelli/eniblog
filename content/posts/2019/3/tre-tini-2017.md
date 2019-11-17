@@ -3,7 +3,7 @@ title: Tre tini del 2017 🔥🔥🔥
 date: 2019-03-18
 published: true
 tags: ['Birra', 'Ryan Biller', 'Impianto', 'Tre tini']
-canonical_url: false
+
 description: "Continuo a parlare dell'evoluzione del nostro impianto a tre tini che venne aggiornato alla fine 2016 con una nuova pentola inox da 50 litri per la bollitura. L'impianto venne usato nei primi e negli ultimi mesi del 2017."
 ---
 

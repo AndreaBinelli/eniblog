@@ -3,7 +3,7 @@ title: Newton 🍎
 date: 2019-01-13
 published: true
 tags: ['Birra', 'Ryan Biller', 'Birra di Natale']
-canonical_url: false
+
 description: "Birra di natale prodotta il 16 agosto 2016. Si trattava di una classica birra di natale, piuttosto alcolica e strutturata. Color ambrato scuro con riflessi rubino. L'ultima bottiglia, bevuta a ferragosto 2018 sembrava un panettone liquido."
 ---
 

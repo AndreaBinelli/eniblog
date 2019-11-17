@@ -3,7 +3,7 @@ title: Mr Saaz 🍺
 date: 2019-02-06
 published: true
 tags: ['Birra', 'Ryan Biller', 'Lager', 'Pils']
-canonical_url: false
+
 description: "Pils brassata a cavallo fra gennaio e febbraio 2017 (data ignota)."
 ---
 

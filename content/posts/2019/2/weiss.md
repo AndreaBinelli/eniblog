@@ -3,7 +3,7 @@ title: Weiss 🍌
 date: 2019-02-14
 published: true
 tags: ['Birra', 'Ryan Biller', 'Weiss']
-canonical_url: false
+
 description: "Weiss prodotta nell'agosto 2017."
 ---
 

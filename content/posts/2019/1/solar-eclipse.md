@@ -3,7 +3,7 @@ title: Solar Eclipse 🌑
 date: 2019-01-07
 published: true
 tags: ['Birra', 'Ryan Biller', 'Stout', 'Cacao']
-canonical_url: false
+
 description: "Birra in stile chocolate stout prodotta il 15 luglio 2016 e imbottigliata il 6 luglio. Più precisamente si tratta di una ricetta irish stout a cui è stato aggiunto un infuso di fave di cacao sotto spirito dopo il travaso."
 ---
 

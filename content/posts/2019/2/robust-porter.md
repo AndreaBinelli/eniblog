@@ -3,7 +3,7 @@ title: Robust Porter ☕️
 date: 2019-02-12
 published: true
 tags: ['Birra', 'Ryan Biller', 'Porter', 'Robust Porter']
-canonical_url: false
+
 description: "Robust Porter prodotta il 9 luglio 2017."
 ---
 

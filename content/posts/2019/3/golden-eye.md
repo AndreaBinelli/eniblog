@@ -3,7 +3,7 @@ title: Golden Eye 🔫
 date: 2019-03-06
 published: true
 tags: ['Birra', 'Golden Ale', 'American Pale Ale']
-canonical_url: false
+
 description: "Golden Ale brassata il 26 agosto 2018."
 ---
 Golden Ale brassata il 26 agosto 2018.

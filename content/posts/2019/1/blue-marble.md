@@ -3,7 +3,7 @@ title: Blue Marble 🌎
 date: 2019-01-17
 published: true
 tags: ['Birra', 'Ryan Biller', 'Pale Ale', 'APA']
-canonical_url: false
+
 description: "American Pale Ale, cotta del 16 ottobre 2016."
 ---
 

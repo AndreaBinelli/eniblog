@@ -3,11 +3,11 @@ title: Amber Things 🎄
 date: 2019-02-18
 published: true
 tags: ['Birra', 'Ryan Biller', 'Amber Ale', 'Brett Ale']
-canonical_url: false
+
 description: "A partire da quello che avevo in casa (molto crystal) e da tutto questo luppolo autocoltivato ho deciso di prendere un bel sacco di pale da 25kg e buttare giù qualche idea. Ne sono nate due amber ale (quasi una evoluzione della american pale ale “sbagliata ma buona” del 2016)."
 ---
 
-A partire da quello che avevo in casa (molto crystal) e da tutto questo luppolo autocoltivato ho deciso di prendere un bel sacco di pale da 25kg e buttare giù qualche idea. Ne sono nate due amber ale (quasi una evoluzione della [american pale ale](pale-blue-dot) “sbagliata ma buona” del 2016).
+A partire da quello che avevo in casa (molto crystal) e da tutto questo luppolo autocoltivato ho deciso di prendere un bel sacco di pale da 25kg e buttare giù qualche idea. Ne sono nate due amber ale (quasi una evoluzione della [american pale ale](/pale-blue-dot) “sbagliata ma buona” del 2016).
 
 ![cotta amber ale](./images/cottaAmberAle.jpg)
 

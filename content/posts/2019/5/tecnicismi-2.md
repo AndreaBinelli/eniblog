@@ -3,7 +3,7 @@ title: Tecnicismi 2.0 ⚙️
 date: 2019-05-21
 published: true
 tags: ['Blog','Web Development']
-canonical_url: false
+
 description: "Sono passato da cms completi e dinamici come Worpress (sia come servizio su Wordpress.com che installato su hosting Aruba) e Blogger a un sito statico generato con Gridsome. Detto così sembra un passo indietro, almeno in termini di funzionalità."
 ---
 

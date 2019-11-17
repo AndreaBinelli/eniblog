@@ -3,7 +3,7 @@ title: Mr Robot 👨‍💻
 date: 2019-01-09
 published: true
 tags: ['Birra', 'Ryan Biller', 'Pale Ale', 'Strong Bitter']
-canonical_url: false
+
 description: "Birra ambrata in stile inglese prodotta il 17 luglio 2016 e imbottigliata il 6 luglio."
 ---
 

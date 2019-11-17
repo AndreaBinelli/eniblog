@@ -3,7 +3,7 @@ title: Hoppy Tripel ⛪️
 date: 2019-02-04
 published: true
 tags: ['Birra', 'Ryan Biller', 'Tripel']
-canonical_url: false
+
 description: "Tripel prodotta il 24 gennaio 2017."
 ---
 

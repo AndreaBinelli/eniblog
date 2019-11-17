@@ -3,7 +3,6 @@ title: Rog 🍷
 date: 2019-03-12
 published: true
 tags: ['Birra', 'Roggenbier']
-canonical_url: false
 description: "Roggenbier, cotta del 2 novembre 2018."
 ---
 

@@ -3,7 +3,7 @@ title: The Son Of Mars 🌋
 date: 2019-01-15
 published: true
 tags: ['Birra', 'Ryan Biller', 'Birra al Miele']
-canonical_url: false
+
 description: "Birra al miele di castagno prodotta il 18 settembre 2016."
 ---
 

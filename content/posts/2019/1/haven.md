@@ -3,7 +3,7 @@ title: Haven ⛵️
 date: 2019-01-19
 published: true
 tags: ['Birra', 'Ryan Biller', 'Porter']
-canonical_url: false
+
 description: "Porter brassata il 13 novembre 2016."
 ---
 

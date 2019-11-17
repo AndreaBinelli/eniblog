@@ -32,12 +32,7 @@ query Blog($page: Int){
         date (format: "DD/MM/YYYY")
         timeToRead
         description
-        coverImage (width: 770, blur: 10)
-        ...on Post {
-            id
-            title
-            path
-        }
+        cover_image (width: 770, height: 380, blur: 10)
       }
     }
   }

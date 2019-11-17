@@ -3,7 +3,7 @@ title: Ecstasy Of Gold 💰
 date: 2019-01-01
 published: true
 tags: ['Birra', 'Ryan Biller', 'Lager', 'Blog']
-canonical_url: false
+
 description: "Questo sarà il primo di una serie di post sulle birre del passato. Nell'ottica di migrazione dal vecchio blog ho deciso di reimportare tutti i post e formattarli in markdown. Anziché un post riepilogativo di tutta l'annata brassicola farò un post dedicato ad ogni birra, mi sembra più adatto al nuovo layout."
 ---
 

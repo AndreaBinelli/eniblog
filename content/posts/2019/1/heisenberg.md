@@ -3,7 +3,7 @@ title: Heisenberg ⚗️
 date: 2019-01-03
 published: true
 tags: ['Birra', 'Ryan Biller', 'Weiss', 'Blog']
-canonical_url: false
+
 description: "Continuamo con lo storico delle birre prodotte. Essendo il primo post di una ricetta ne approfitterò per introdurre un nuovo layout che cercherò di migliorare nei prossimi post di questo genere. Questa è stata la nostra prima e unica weisse e all'epoca il risultato ci sembrò stupefacente."
 ---
 

@@ -3,7 +3,7 @@ title: Dark Side 🌘
 date: 2019-04-26
 published: true
 tags: ['Birra', 'Porter', 'Imperial Porter']
-canonical_url: false
+
 description: "Imperial Porter svuotadispensa prodotta il 26 aprile 2019."
 ---
 

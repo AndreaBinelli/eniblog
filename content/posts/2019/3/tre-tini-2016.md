@@ -3,7 +3,7 @@ title: Tre tini del 2016 🔥🔥
 date: 2019-03-15
 published: true
 tags: ['Birra', 'Ryan Biller', 'Impianto', 'Tre tini']
-canonical_url: false
+
 description: "In questo articolo parlerò del mio primo impianto a tre tini creato insieme agli ex soci del gruppo brassicolo Ryan Biller. La prima versione del 2016 era composta da due fornelloni e tre pentole inox, due da 35 litri e una da 13 litri per lo sparge."
 ---
 

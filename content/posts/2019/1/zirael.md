@@ -3,7 +3,7 @@ title: Zirael 🗡
 date: 2019-01-21
 published: true
 tags: ['Birra', 'Ryan Biller', 'Kolsch']
-canonical_url: false
+
 description: "Kolsch prodotta il 27 novembre 2016."
 ---
 

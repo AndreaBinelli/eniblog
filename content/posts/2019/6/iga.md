@@ -3,7 +3,7 @@ title: Italian Grape Ale 🍷
 date: 2019-06-22
 published: true
 tags: ['Birra', 'Kveik', 'Italian Grape Ale']
-canonical_url: false
+
 description: "Primo reciclo dell'hornidal kveik, stavolta con base diversa e aggiunta di sapa in bollitura."
 ---
 
@@ -51,3 +51,5 @@ In bocca si sente una certa dolcezza residua però bilanciata dall'amaro e sopra
 La birra sembra abbastanza carbonata ma meno di quanto sembrava all'apertura della bottiglia, una bomba a mano che ha leggermente sgusciato come uno champagne. Non avendo controllato la densità finale (molto male) potrebbe essere che il lievito ha continuato a lavorare sul mosto oltre che allo zucchero di rifermentazione (5,6 g/l come quasi tutte le mie birre).
 
 Ovviamente seguiranno maggiori assaggi per valutarne l'evoluzione nel tempo. Sperando che le bottiglie non esplodano tutte...
+
+Aggiornamento novembre 2019: la dolcezza si è via via persa e ora è più secca e beverina. All'aroma mi sembra viri di più sul vinoso che sul miele come nei primi assaggi. Purtroppo è emersa una leggera nota metallica/ematica che rovina un po' la bevuta, probabilmente dovuta all'ossidazione.

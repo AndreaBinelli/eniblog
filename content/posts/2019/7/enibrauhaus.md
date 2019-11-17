@@ -3,7 +3,7 @@ title: Enibrauhaus 2.0 🛠
 date: 2019-07-07
 published: true
 tags: ['Birra', 'Blog', 'Web Development', 'Enibrauhaus']
-canonical_url: false
+
 description: "Enibrauhaus è il nome scherzoso che ho dato al mio birrificio/cantina casalinga ma in futuro potrebbe diventare molto più tecnologico e... virtuale."
 ---
 

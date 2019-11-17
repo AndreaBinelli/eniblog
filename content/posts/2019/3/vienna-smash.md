@@ -3,7 +3,7 @@ title: Vienna SMaSH 💥
 date: 2019-03-09
 published: true
 tags: ['Birra', 'Blonde Ale', 'Brett Ale']
-canonical_url: false
+
 description: "Blonde ale generica, prodotta il 17 ottobre 2018. Una parte in dama sperimentale con lieviti e batteri di lambic."
 ---
 

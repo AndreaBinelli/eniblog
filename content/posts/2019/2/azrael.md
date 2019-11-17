@@ -3,7 +3,7 @@ title: Azrael ✝️
 date: 2019-02-02
 published: true
 tags: ['Birra', 'Ryan Biller', 'Lager', 'Amber Lager']
-canonical_url: false
+
 description: "Amber lager brassata il 9 gennaio 2017."
 ---
 

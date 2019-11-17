@@ -3,7 +3,7 @@ title: Trap 📀
 date: 2019-03-03
 published: true
 tags: ['Birra', 'Belgian Pale Ale', 'Belgian Blond Ale']
-canonical_url: false
+
 description: "Prima birra del 2018 una Belgian Pale Ale prodotta l'8 luglio."
 ---
 

@@ -11,7 +11,7 @@
     
     <div class="post content-box">
       <div class="post__header">
-        <g-image alt="Cover image" v-if="$page.post.coverImage" :src="$page.post.coverImage" />
+        <g-image alt="Cover image" v-if="$page.post.cover_image" :src="$page.post.cover_image" />
       </div>
 
       <div class="post__content" v-html="$page.post.content" />
@@ -56,8 +56,8 @@ export default {
 </script>
 
 <page-query>
-query Post ($path: String!) {
-  post: post (path: $path) {
+query Post ($id: ID!) {
+  post: post (id: $id) {
     title
     path
     date (format: "DD/MM/YYYY")
@@ -69,7 +69,7 @@ query Post ($path: String!) {
     }
     description
     content
-    coverImage (width: 860, blur: 10)
+    cover_image (width: 860, blur: 10)
   }
 }
 </page-query>

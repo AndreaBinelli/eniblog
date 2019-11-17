@@ -3,7 +3,7 @@ title: Pale Blue Dot 🌟
 date: 2019-01-11
 published: true
 tags: ['Birra', 'Ryan Biller', 'Pale Ale', 'APA']
-canonical_url: false
+
 description: "Birra in stile American Pale Ale, prodotta il 7 agosto 2016."
 ---
 

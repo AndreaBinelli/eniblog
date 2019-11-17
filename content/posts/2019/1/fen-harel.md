@@ -3,7 +3,7 @@ title: Fen'Harel 🧝
 date: 2019-01-23
 published: true
 tags: ['Birra', 'Ryan Biller', 'Kolsch']
-canonical_url: false
+
 description: "Saison brassata l'11 dicembre 2016."
 ---
 

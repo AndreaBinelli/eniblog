@@ -3,7 +3,7 @@ title: Blonde Ale 👱🏻‍♀️
 date: 2019-02-16
 published: true
 tags: ['Birra', 'Ryan Biller', 'Blonde Ale']
-canonical_url: false
+
 description: "Blonde Ale brassata il 29 ottobre 2017"
 ---
 

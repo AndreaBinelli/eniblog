@@ -3,7 +3,7 @@ title: Plug Walk 🌿
 date: 2019-04-01
 published: true
 tags: ['Birra', 'American Pale Ale', 'Pale Ale']
-canonical_url: false
+
 description: "Prima cotta dell'anno 2019, proprio il primo gennaio. Pale Ale ben luppolata con luppolo autocoltivato."
 ---
 

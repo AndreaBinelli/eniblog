@@ -3,7 +3,7 @@ title: White IPA ☁️
 date: 2019-02-10
 published: true
 tags: ['Birra', 'Ryan Biller', 'White IPA', 'Blanche', 'Wit']
-canonical_url: false
+
 description: "White IPA prodotta l'11 giugno 2017."
 ---
 

@@ -3,7 +3,7 @@ title: Dub 🎛
 date: 2019-02-08
 published: true
 tags: ['Birra', 'Ryan Biller', 'Dubbel']
-canonical_url: false
+
 description: "Dubbel prodotta il 24 febbraio 2017."
 ---
 
