@@ -1,9 +1,8 @@
 node_modules
-.vitepress/dist
-.vitepress/cache
-node_modules
-.dendron.*
-build
-seeds
-.next
-pods/service-connections
+app/.vitepress/dist
+app/.vitepress/cache
+vault/.dendron.*
+vault/build
+vault/seeds
+vault/.next
+vault/pods/service-connections
