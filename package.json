@@ -1,5 +1,6 @@
 {
-  "dependencies": {
+  "devDependencies": {
+    "markdown-it-wikilinks": "^1.4.0",
     "vitepress": "^1.0.2"
   },
   "scripts": {
