@@ -10,7 +10,7 @@ export const en = defineConfig({
 
 function nav() {
   return [
-    { text: 'Home', link: '/en/' },
+    { text: 'Brews', link: 'notes/it.brew.brews.2016.blue-marble.md' }
   ]
 }
 

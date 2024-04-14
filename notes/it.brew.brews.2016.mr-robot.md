@@ -2,7 +2,7 @@
 id: g14hqx9skjf69odavu4tzop
 title: Mr Robot
 desc: ''
-updated: 1712783204311
+updated: 1712783616267
 created: 1688744651984
 ---
 Birra ambrata in stile inglese prodotta il 17 luglio 2016 e imbottigliata il 6 luglio.
@@ -38,7 +38,7 @@ Salta subito al naso l'inconfondibile ek golding e il malto crystal, tipici di u
 
 ### Sapore
 
-Si riconfermano le sensazioni al naso, forse l'unico difetto è qualche nota alcolica indesiderata. 
+Si riconfermano le sensazioni al naso, forse l'unico difetto è qualche nota alcolica indesiderata.
 
 ### Palato
 

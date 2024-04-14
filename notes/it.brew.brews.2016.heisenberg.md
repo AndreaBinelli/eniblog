@@ -2,7 +2,7 @@
 id: 2me8fo1f9th6iziw3no33m0
 title: Heisenberg
 desc: ''
-updated: 1712783183303
+updated: 1712783611115
 created: 1688744651984
 ---
 Continuamo con lo storico delle birre prodotte. Essendo il primo post di una ricetta ne approfitterò per introdurre un nuovo layout che cercherò di migliorare nei prossimi post di questo genere. Questa è stata la nostra prima e unica weisse, all'epoca il risultato ci sembrò stupefacente e ci diede lo slancio in questo hobby.
@@ -23,7 +23,7 @@ Continuamo con lo storico delle birre prodotte. Essendo il primo post di una ric
 
 ### Lievito
 
-Fermentis Safale WB-06 
+Fermentis Safale WB-06
 
 ### Aspetto
 

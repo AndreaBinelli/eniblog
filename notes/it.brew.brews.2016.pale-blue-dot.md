@@ -2,7 +2,7 @@
 id: 6rfjw9hronyswc203e9in6a
 title: Pale Blue Dot
 desc: ''
-updated: 1712783223554
+updated: 1712783620786
 created: 1688744651985
 ---
 Birra in stile American Pale Ale, prodotta il 7 agosto 2016.
@@ -37,7 +37,7 @@ Aroma speziato e resinoso del chinook, che ricorda un po’ il pompelmo.
 
 ### Sapore
 
-Si riconfermano le sensazioni olfattive del luppolo, con l’amaro delicato e sorretto bene dalla importante componente caramellata del malto crystal. 
+Si riconfermano le sensazioni olfattive del luppolo, con l’amaro delicato e sorretto bene dalla importante componente caramellata del malto crystal.
 
 ### Palato
 

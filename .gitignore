@@ -1,6 +1,6 @@
 node_modules
-app/.vitepress/dist
-app/.vitepress/cache
+.vitepress/dist
+.vitepress/cache
 .dendron.*
 build
 seeds
